@@ -1,0 +1,5 @@
+name: Spleef
+version: 1.0
+main: penta.spleef.SpleefPlugin
+api-version: 1.21
+depend: [FastAsyncWorldEdit]
