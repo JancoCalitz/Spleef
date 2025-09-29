@@ -31,4 +31,4 @@ During gameplay, the plugin periodically removes and restores blocks within a ci
 ---
 
 ## Author
-Developed by **Penta** as part of ongoing Minecraft server mini-game plugin development.
+This plugin was developed by **Penta** and is shown here for demonstration purposes. Rights reserved.
